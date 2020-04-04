@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-04-04T00:24:54.465Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="Ak5J7lgDO7TDcDk9mzND" version="12.9.6" type="github" pages="2"><diagram id="9UC1ZBUf9r_J20Ng0Syh" name="Page-1">3Zjfb5swEMf/GqTtoRWYQJLHJmu6PlST2qqd9lI54IAVsFNj8mN//e7AhDCokm5JFfUlga/P5/PH53Mcyx2n6xtFF/GdDFliETtcW+43i5CBP4BPFDal0PPsUogUD0vJqYUH/psZsTLLeciyhqGWMtF80RQDKQQLdEOjSslV02wmk+aoCxqxlvAQ0KStPvNQx2ZapF/r3xmP4mpkxx+WLSmtjM1MspiGcrUjudeWO1ZS6vIpXY9ZguwqLmW/yRut28AUE/qQDmnsyf7js3xZb9Igu508Pw2yC1J6WdIkNxM2wepNRUDJXIQMndiWO1rFXLOHBQ2wdQVLDlqs0wTeHHhsB2XiXDKl2XpHMkHeMJkyrTZgUqWM4WUSpsqXVU3fr0ziHfLu0IjUrHi09VxDgQfD5R2M3PNj1Lf3Q+pgRE6FyNuPaA8Umi3K7TvjawR5FEpkLyXykZT886TUOy9KVeU/N0zEa2LyWpicDkzOyTD1Wph+tjjB3HQTTaaVnLOxTKQCRUgBlqMZT5K/JJrwSMBrAMQY6CMkxeFcvDINKQ9DHKaz2jXr4WdM0nbFe3n5xPj3nzdd+E+X/AeU0o8+k4dNRIOOI7nrTHa9k0HqtyCN7u5B+PIYM/iCMknRyR3TdCoTHsDzPdXs65nm8UwKbS4IxD3OmhG3t2/R3K5F84+wZsTd8Hk23vTFwP01mczj6PbpwmktmUX8BOGHfNlYFP81x5tDQeUiK7BcgYEzWKzrRniKzHftpClh/393XCZU0c+G2MfeAK4/9phCEnC4tpFJSDfVSPBWDtYMAI3aYR090srLVHUEcHhcB0f7PxPodaJ+Y7tiSmV4LS42tcjTKWw0YssZ3oq3C2Er9ppzBZsJL9DwMWdsgYkvc7SeyhC3xSwXgeZScBFhduuiX6YvsVoUK12MRJOs8CDkSpSboOnnmliwkYZD1FMTbZYWU8EoFZtJBbGOsa/AYbkIFKMZq2IzztKdma7K3Vd0yvIgrsZla6YCnhl3K15usdqfcQXR4yR+iMCI2yCXKIQMqlPKRYGn7lI6RWtEiXOdsoiLKswUQGmJtjFc7PHKX8xmBzpF37gDjBPB6gVIKReaFt4KH4ksAi4nenmU5DzLMn6Esu24pFG2nV77x7jnu12/B99fuOG1/pOmaNv5p8u9/gM=</diagram><diagram id="nKHEt0oqevJaXqBZVAUz" name="Page-2">ldFPD4IgFADwT8OxzaCZXTOri8utQ2cSEjb0OaTEPn02sGJd6sIePx5/3gORtLY7TVuRA+MK4YhZRDYI4yROxvEJg4NFNHdQackcfcBR3rnHyOtVMt4FiQZAGdmGWELT8NIERrWGPky7gApvbWnFv+BYUvWtJ8mM8GXh5dv3XFZiunker9xKTadkX0knKIP+g0iGSKoBjItqm3L17N3Ul0wUhtzO/SbOi53tDusB32fusO0/W14laN6YX48eg/fTxknwvyR7AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-04T00:25:30.732Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="hxelY7YaqtGnCDCBMT2_" version="12.9.6" type="github">
+  <diagram id="9UC1ZBUf9r_J20Ng0Syh" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="680" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="720" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="740" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="725" y="55" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-14" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-15" value="__" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="50" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="80" width="660" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mh5o7TWo_xymcsIFWV8s-17" value="BMR (The Basal Metabolic Rate)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="234" y="80" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="23yiksCy7n83ZFFkhgIV-1" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;BMR = 1,589 Calories/day&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Basal Metabolic Rate is the number of calories required to keep your body functioning at rest. BMR is also known as your body’s metabolism; therefore, any increase to your metabolic weight, such as exercise, will increase your BMR. Once you’ve determined your BMR, you can begin to monitor how many calories a day you need to maintain or lose weight.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="132" y="145" width="563" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
